@@ -1,0 +1,53 @@
+.reg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 60vh;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 5px;
+}
+
+.text {
+    font-size: 80px;
+}
+
+.name {
+    font-size: 20px;
+    padding: 10px 20px;
+    margin-bottom: 15px;
+}
+
+.surname{
+    font-size: 20px;
+    padding: 10px 20px;
+    margin-bottom: 15px;
+}
+
+.email {
+    font-size: 20px;
+    padding: 10px 20px;
+    margin-bottom: 15px;
+}
+
+.btn {
+    font-size: 20px;
+    padding: 10px 110px;
+    background-color: rgb(32, 139, 32);
+    color: white;
+    border-color: white;
+}
+
+.suc {
+    background: rgb(100, 133, 231);
+    border: 1px solid rgb(100, 133, 231);
+    color: white;
+    max-inline-size: 400px;
+    left: 50%;
+    font-size: 20px;
+}
